@@ -3,7 +3,7 @@
 ### <u>flights</u>
 
 | flight     | source     | destination |
-|:----------:|:----------:|:----------: |
+|:----------:|:----------:|:-----------:|
 | AIR 0087   | Pune       | Rajasthan   | 
 | AIR 0187   | Delhi      | Ahmedabad   | 
 | AIR 0767   | Rajasthan  | Delhi       |

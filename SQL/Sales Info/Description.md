@@ -1,0 +1,9 @@
+| region | salesperson |  sales_amount |
+| :----: | :---------: | :-----------: |
+|  North |    Alice    |      5000     |
+|  North |     Bob     |      7000     |
+|  North |    Carol    |      7000     |
+|  North |     Dave    |      4000     |
+|  South |     Eve     |      6000     |
+|  South |    Frank    |      6000     |
+|  South |    Grace    |      4500     |
