@@ -1,7 +1,19 @@
 +--------+
-|   teams|
+| teams|
 +--------+
-|   RCB  |
-|   MI   |
-|   GT   |
+| RCB  |
+| MI   |
+| GT   |
++--------+
+
+
+
++--------+
+| Player |
++--------+
+| Mohit  |
+| Samay  |
+| Darpan |
+| Swati  |
+| Nilesh |
 +--------+
