@@ -20,7 +20,7 @@ Inner Join ==>  ???
 Left  Join ==>  ???
 Right Join ==>  ???
 Full  Join ==>  ???
-Cross Join ==>  ???
+Cross Join ==>  ???`
 
 
 ### Answer : Number Of Records
